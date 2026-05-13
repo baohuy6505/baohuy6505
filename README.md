@@ -16,9 +16,9 @@
 
 ### 💻 About Me
 
-* 🎯 **Current Focus:** Building robust and scalable systems with **ASP.NET Core**, **Spring Boot**, and **Node.js** applying **Clean Architecture** and **DDD**.
-* 📚 **Learning Next:** Deepening knowledge in **Computer Vision (MediaPipe)**, mastering **MedusaJS & Nuxt 4**, and preparing for **JLPT N4**.
-* 🤝 **Collaborations:** Open to discussions on **System Design**, **Microservices (RabbitMQ)**, and **AI Integration**.
+* 🎯 **Current Focus:** Building robust and scalable systems with **ASP.NET Core**, **Spring Boot**, and **Node.js** applying **Clean Architecture** and **DDD**
+* 📚 **Learning Next:** Deepening knowledge in **Computer Vision (MediaPipe)**, mastering **MedusaJS & Nuxt 4**
+* 🤝 **Collaborations:** Open to discussions on **System Design**, **Microservices (RabbitMQ)**, and **AI Integration**
 
 <br>
 
