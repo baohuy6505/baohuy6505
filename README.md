@@ -3,7 +3,7 @@
   <img src="https://img.shields.io/badge/Hello%2C%20Bảo_Huy-000000?style=for-the-badge&logo=starship&logoColor=white" alt="Header" />
 
   <h1>🌌 Welcome to Bao Huy's universe!</h1>
-  <h3>Backend Developer</h3>
+  <h3>Backend Developer || FullStack Developer</h3>
   
   <br>
   <p>
@@ -112,10 +112,13 @@
 </div>
 
 ---
-
 ### 🐍 Fun Fact: Commit Snake
 <div align="center">
-  <img src="https://github.com/nguyenbaohuy/nguyenbaohuy/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/baohuy6505/baohuy6505/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/baohuy6505/baohuy6505/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/baohuy6505/baohuy6505/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 <div align="center">
