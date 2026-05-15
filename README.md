@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://img.shields.io/badge/Hello%2C%20Bảo_Huy-000000?style=for-the-badge&logo=starship&logoColor=white" alt="Header" />
+  <img src="https://img.shields.io/badge/Hello%2C%20Nguyen_Huy-000000?style=for-the-badge&logo=starship&logoColor=white" alt="Header" />
 
   <h1>🌌 Welcome to Bao Huy's universe!</h1>
   <h3>Backend Developer</h3>
