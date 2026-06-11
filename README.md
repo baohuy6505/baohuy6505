@@ -6,7 +6,7 @@
 
 <div align="center">
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F700FF&center=true&vCenter=true&random=false&width=600&lines=Clean+Architecture+%7C+DDD;ASP.NET+Core+%7C+NestJS+%7C+Node.js;Microservices+%7C+System+Design;Always+learning+%F0%9F%9A%80)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F700FF&center=true&vCenter=true&random=false&width=600&lines=Clean+Architecture+%7C+DDD;ASP.NET+Core+%7C+NestJS+%7C+Node.js;Web+Development+%7C+System+Design;Always+learning+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
@@ -25,13 +25,12 @@ location: Vietnam 🇻🇳
 role: Software Engineer
 focus:
   - Designing High-Performance APIs with ASP.NET Core & NestJS
-  - Architecting Scalable Microservices & Event-Driven Systems
   - Applying Domain-Driven Design (DDD) & Clean Architecture
   - Building Modern UIs with ReactJS, Nuxt 4 & Next.js
 learning:
   - Real-Time Intelligent Applications using Computer Vision (MediaPipe)
   - Mastering Advanced Headless Commerce Architecture
-open_to: System Design Consulting, Microservices Refactoring & AI Integrations
+open_to: System Design Consulting, Code Refactoring & AI Integrations
 coffee_per_day: ∞ ☕
 ```
 
@@ -43,7 +42,7 @@ coffee_per_day: ∞ ☕
 
 | 🚀 Project | 📋 Description | 🛠️ Stack |
 |---|---|---|
-| **CodeSentinel** | AI-powered retroactive code review system for instructors | NestJS · PostgreSQL · Redis · Docker · AI |
+| **CodeSentinel** | AI-powered retroactive code review system for instructors | ASP.NET Core 10 · PostgreSQL · Redis · Docker · AI |
 | **MallPlus** | E-commerce platform with headless architecture | MedusaJS · Nuxt 4 · PostgreSQL · Docker |
 
 </div>
@@ -123,34 +122,22 @@ coffee_per_day: ∞ ☕
 
 <div align="center">
 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=baohuy6505&theme=darkhub&column=6&margin-w=10&margin-h=10&no-bg=true" />
-  </a>
-  
-  <br>
-
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=baohuy6505&show_icons=true&theme=synthwave&hide_border=true&border_radius=10&cache_seconds=60" />
+    <img height="195px" src="https://github-readme-stats.vercel.app/api?username=baohuy6505&show_icons=true&theme=synthwave&hide_border=true&border_radius=10&cache_seconds=60" />
   </a>
-  
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baohuy6505&layout=compact&theme=synthwave&hide_border=true&border_radius=10&cache_seconds=60" />
+  <a href="https://github.com/denvercoder1/github-readme-streak-stats">
+    <img height="195px" src="https://streak-stats.demolab.com?user=baohuy6505&theme=dark&hide_border=true&border_radius=10&background=0D1117&ring=F700FF&fire=F700FF&currStreakLabel=F700FF" />
   </a>
-
-  <br>
-
-<a href="https://github.com/denvercoder1/github-readme-streak-stats">
-  <img src="https://streak-stats.demolab.com?user=baohuy6505&theme=dark&hide_border=true&border_radius=10&background=0D1117&ring=F700FF&fire=F700FF&currStreakLabel=F700FF" />
-</a>
 
 </div>
 
 ---
 
-### 💬 Random Dev Quote
+### 💬 Favorite Dev Quote
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+  <h3>"Talk is cheap. Show me the code."</h3>
+  <h5>— Linus Torvalds</h5>
 </div>
 
 ---
